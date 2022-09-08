@@ -1,0 +1,78 @@
+body{
+}
+
+.fondoverde{
+    background-color:#1abc9c;
+}
+
+.fondorojo{
+    background-color:red;
+}
+
+.fondoazul{
+    background-color:aqua;
+}
+
+.fondoblanco{
+    background-color: white;
+}
+.fondovioleta{
+    background-color: blueviolet;
+}
+
+.fondoamarillo{
+    background-color:yellow;
+}
+.fondoverdeclaro{
+    background-color: chartreuse;
+}
+
+.letrablanca{
+    color:white;
+}
+
+.letranegra{
+    color:white;
+}
+
+.tamañoletra{
+    font-size:2em;
+}
+
+.bordegris1{
+     border:10px outset #566573;
+}
+
+.bordegris2{
+     border:10px outset #566573;
+}
+
+.bordegris3{
+     border:1px solid #566573;
+}
+
+
+.bordenegro
+{
+    border:1px solid  black;
+}
+
+.tamañorecuadro{
+    width:100%;
+    height:10%;
+    }
+
+.tamañorecuadro2{
+    width:100%;
+    height:5%;
+    }
+
+.margen{
+margin:  -5px;
+padding: -5px;
+}
+
+.margen2{
+margin:  -5px;
+padding: -5px;
+}
